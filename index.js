@@ -1,3 +1,2 @@
-$(document).ready(function(){
-    $("h1").css("color","red")
-})
+$("h1").text("goodbye")
+$("a").attr("href" ,"http://yahoo.com/")

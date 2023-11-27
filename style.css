@@ -1,1 +1,7 @@
-
+.bigHeading{
+    color: yellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.marginHeading{
+    margin-top: 50px;
+}
